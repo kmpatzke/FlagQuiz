@@ -9,4 +9,4 @@ The program takes a username and saves the score in a MySQL Database.
 
 Further information is in the pdf.
 
-Check out the video - 
+ 
